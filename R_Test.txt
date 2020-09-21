@@ -1,7 +1,4 @@
 test
 
-<<<<<<< HEAD
 Hej hopp pillesnopp du luktar som en propp
-=======
-Hej å grå hej då pillesnopp
->>>>>>> feature2
+
